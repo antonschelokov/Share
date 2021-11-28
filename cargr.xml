@@ -13,7 +13,6 @@
 <wholesale>0</wholesale>
 <multichild_price>0</multichild_price>
 <price_parked>1000</price_parked>
-<condition>Καινούριο</condition>
 <crashed>false</crashed>
 <regiyear>2021</regiyear>
 <regimonth>10</regimonth>
@@ -56,7 +55,6 @@ https://localhost:44321//Uploads/RCGENDEV/VehicleFiles/4d2774e2-7f5e-4fa2-9f60-1
 <wholesale>0</wholesale>
 <multichild_price>0</multichild_price>
 <price_parked>0</price_parked>
-<condition>Μεταχειρισμένο</condition>
 <crashed>false</crashed>
 <regiyear>2021</regiyear>
 <regimonth>10</regimonth>
