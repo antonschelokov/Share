@@ -1,0 +1,18 @@
+{
+	"items" : [
+		  {
+			"name" : "Application 1",
+			"description" : "Description application 1",
+			"icon" : "https://raw.githubusercontent.com/antonschelokov/Share/main/storeitem1.png",
+			"link" : "ya.ru"
+		  }
+		],
+		[
+		  {
+			"name" : "Application 2",
+			"description" : "Description application 2",
+			"icon" : "https://raw.githubusercontent.com/antonschelokov/Share/main/storeitem2.png",
+			"link" : "ya.ru"
+		  }
+		]
+}
